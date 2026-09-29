@@ -1,0 +1,52 @@
+{
+  "nav": {
+    "brand": "TeamBoard",
+    "home": "Inicio",
+    "login": "Iniciar sesión",
+    "signup": "Registrarse",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú",
+    "features": "Funciones",
+    "pricing": "Precios",
+    "dashboard": "Panel"
+  },
+  "footer": {
+    "tagline": "El espacio de trabajo compartido donde los equipos planifican proyectos, asignan tareas y se mantienen sincronizados.",
+    "productHeading": "Producto",
+    "accountHeading": "Cuenta",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "copyright": "© 2024 TeamBoard. Todos los derechos reservados."
+  },
+  "home": {
+    "activity": {
+      "eyebrow": "Actualizaciones en tiempo real",
+      "subtitle": "Mantente informado con notificaciones instantáneas de la actividad del equipo y cambios en proyectos.",
+      "teamTitle": "Actividad del equipo",
+      "title": "Nunca te pierdas nada"
+    },
+    "cta": {
+      "primary": "Comenzar prueba gratuita",
+      "secondary": "Programar demostración",
+      "subtitle": "Únete a miles de equipos que envían más rápido con TeamBoard.",
+      "title": "¿Listo para transformar tu flujo de trabajo?"
+    },
+    "features": {
+      "eyebrow": "Características poderosas",
+      "subtitle": "Todo lo que necesitas para gestionar proyectos, colaborar sin problemas y entregar a tiempo.",
+      "title": "Diseñado para equipos modernos"
+    },
+    "hero": {
+      "badge": "Ahora en beta",
+      "ctaPrimary": "Comenzar gratis",
+      "ctaSecondary": "Ver demostración",
+      "mockProject": "Proyecto de ejemplo",
+      "subtitle": "Organiza tareas, alinea tu equipo y entrega proyectos más rápido que nunca.",
+      "title": "Colabora sin el caos"
+    },
+    "workflow": {
+      "eyebrow": "Flujo de trabajo optimizado",
+      "subtitle": "Desde la planificación hasta la finalización, mantén cada proyecto en el camino correcto con gestión de tareas intuitiva.",
+      "title": "Trabaja como quieras"
+    }
+  }
+}

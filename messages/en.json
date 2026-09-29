@@ -1,0 +1,52 @@
+{
+  "nav": {
+    "brand": "TeamBoard",
+    "home": "Home",
+    "login": "Log in",
+    "signup": "Sign up",
+    "features": "Features",
+    "pricing": "Pricing",
+    "dashboard": "Dashboard",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "footer": {
+    "tagline": "The shared workspace where teams plan projects, assign tasks, and stay in sync.",
+    "productHeading": "Product",
+    "accountHeading": "Account",
+    "forgotPassword": "Forgot password",
+    "copyright": "© 2024 TeamBoard. All rights reserved."
+  },
+  "home": {
+    "activity": {
+      "eyebrow": "Real-time updates",
+      "subtitle": "Stay informed with instant notifications of team activity and project changes.",
+      "teamTitle": "Team Activity",
+      "title": "Never miss a beat"
+    },
+    "cta": {
+      "primary": "Start free trial",
+      "secondary": "Schedule demo",
+      "subtitle": "Join thousands of teams shipping faster with TeamBoard.",
+      "title": "Ready to transform your workflow?"
+    },
+    "features": {
+      "eyebrow": "Powerful features",
+      "subtitle": "Everything you need to manage projects, collaborate seamlessly, and deliver on time.",
+      "title": "Built for modern teams"
+    },
+    "hero": {
+      "badge": "Now in beta",
+      "ctaPrimary": "Get started free",
+      "ctaSecondary": "View demo",
+      "mockProject": "Sample project",
+      "subtitle": "Organize tasks, align your team, and ship projects faster than ever.",
+      "title": "Collaborate without the chaos"
+    },
+    "workflow": {
+      "eyebrow": "Streamlined workflow",
+      "subtitle": "From planning to completion, keep every project on track with intuitive task management.",
+      "title": "Work the way you want"
+    }
+  }
+}

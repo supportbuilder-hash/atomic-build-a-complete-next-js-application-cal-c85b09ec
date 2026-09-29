@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --foreground: 240 10% 3.9%;
+    --card: 0 0% 100%;
+    --border: 240 5.9% 90%;
+    --muted-foreground: 240 3.8% 46.1%;
+  
+    --accent: #F5A524;
+    --accent-foreground: #1B1F2A;
+    --primary: #3730E0;
+    --background: #F6F7FB;
+}
+}
