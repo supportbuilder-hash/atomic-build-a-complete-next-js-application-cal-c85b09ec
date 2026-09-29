@@ -132,7 +132,11 @@ export default function HomePage() {
               <h2
                 className="mt-3 text-balance text-3xl font-bold tracking-tight sm:text-4xl"
                 style={{
-                  color: "#f97316"
+                  color: "#f97316",
+                  backgroundColor: "#22c55e",
+                  fontSize: "24px",
+                  padding: "24px",
+                  borderRadius: "8px"
                 }}>
                 {t("home.features.title")}
               </h2>
